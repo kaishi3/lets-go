@@ -1,0 +1,3 @@
+cmd - application-specific code 
+internal - non-application-specific code (validation helpers, sql db models, etc)
+ui - ui assets for the web app 
